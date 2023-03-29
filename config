@@ -1,0 +1,3 @@
+[DEFAULT]
+datapath = ~/.config/discnerd/data.yml
+

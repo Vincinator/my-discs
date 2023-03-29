@@ -1,0 +1,10 @@
+# discnerd
+git+https://github.com/Vincinator/discnerd
+
+jupyter
+jupyter-dash
+dash
+plotly
+pandas
+numpy
+scipy
